@@ -1,2 +1,11 @@
-# DBMS-For-Infytq
-DBMS &amp; SQL:    Introduction to DBMS SQL Basics DDL | DML Statements SQL Functions Joins | Subquery | Transactions Normalization NoSQL Databases
+# InfyTQ DBMS Syllabus :-
+
+
+-  **Introduction to DBMS**
+- **SQL Basics**
+- **Joins**
+- **Normalization**
+- **Subquery**
+- **Searching and Sorting**
+- **Transactions**
+- **NoSQL Databases**
